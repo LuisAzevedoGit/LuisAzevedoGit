@@ -1,4 +1,4 @@
-<h1 align="center">Infrastructure as Code, Coffee as Fuel ☕</h1>
+<h1 align="center">Always trying to automate</h1>
 
 <h3 align="center">Hi 👋 I'm Luís</h3>
 <h3 align="center">DevOps Engineer 🚀</h3>
@@ -32,7 +32,7 @@ Para mostrar o badge em imagem:
 -->
 
 <a href="https://www.credly.com/users/luis-azevedo.ff5f5d95">
-  <img src="assets/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120">
+  <img src="images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120">
 </a>
 
 **AWS Certified Cloud Practitioner** (Nov 2026) — [read how I prepared](#) <!-- põe aqui o link do repositório da certificação -->
