@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,js,mysql,html,css,vscode,windows" alt="Dev tools" />
 </p>
 
-## 🏅 Certifications
+
 
 <!--
 Para mostrar o badge em imagem:
