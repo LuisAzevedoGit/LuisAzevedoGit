@@ -35,4 +35,3 @@ Para mostrar o badge em imagem:
   <img src="images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120">
 </a>
 
-**AWS Certified Cloud Practitioner** (Nov 2026) — [read how I prepared](#) <!-- põe aqui o link do repositório da certificação -->
