@@ -11,27 +11,93 @@
 
 ---
 
+<h3 align="center">💻 Languages and Tools</h3>
 
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+      <br>Terraform
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br>GitHub Actions
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
+      <br>Prometheus
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
+      <br>Grafana
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
+      <br>Windows
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Tools & Technologies
+<h3 align="center">🏅 Certifications</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,terraform,aws,githubactions,prometheus,grafana,git,github" alt="DevOps tools" />
+  <a href="https://www.credly.com/users/luis-azevedo.ff5f5d95">
+    <img src="images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120">
+  </a>
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,mysql,html,css,vscode,windows" alt="Dev tools" />
-</p>
-
-
-
-<!--
-Para mostrar o badge em imagem:
-1. No Credly, abre o badge → Share → faz download da imagem.
-2. Guarda a imagem numa pasta "assets" neste repositório.
-3. Substitui o src abaixo pelo caminho da imagem (ex: assets/aws-cloud-practitioner.png).
--->
-
-<a href="https://www.credly.com/users/luis-azevedo.ff5f5d95">
-  <img src="images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120">
-</a>
-
