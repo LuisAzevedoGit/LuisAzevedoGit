@@ -1,7 +1,5 @@
-<h1 align="center">sudo make me a DevOps engineer 🚀</h1>
-
 <h3 align="center">Hi 👋 I'm Luís</h3>
-<p align="center"><i>Sysadmin turned DevOps. If I have to do it twice, I automate it.</i></p>
+<p align="center"><i>If I have to do it twice, I automate it.</i></p>
 
 <p align="center">
   <a href="mailto:luisazevedo2002work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
