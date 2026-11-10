@@ -1,12 +1,12 @@
-<h1 align="center">Always trying to automate!</h1>
+<h1 align="center">sudo make me a DevOps engineer 🚀</h1>
 
 <h3 align="center">Hi 👋 I'm Luís</h3>
-<h3 align="center">DevOps Engineer 🚀</h3>
+<p align="center"><i>Sysadmin turned DevOps. If I have to do it twice, I automate it.</i></p>
 
 <p align="center">
   <a href="mailto:luisazevedo2002work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/lu%C3%ADs-azevedo-1510ba346/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.credly.com/users/luis-azevedo.ff5f5d95"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge" alt="Badges"></a>
+  <a href="https://www.credly.com/users/luis-azevedo.ff5f5d95"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge" alt="Credly"></a>
 </p>
 
 ---
